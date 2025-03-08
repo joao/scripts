@@ -1,7 +1,8 @@
 import os
 import re
 
-# Script that renames files in the current directory, and subdirectories, to the format YYYY-MM-DD
+# Script that renames a US date in filenames on the current directory, and subdirectories,
+# to the format YYYY-MM-DD
 
 
 # Example filename: "25-12-2023, vacation_photo.jpg"
