@@ -1,2 +1,2 @@
-# scripts
+# Script
 Public scripts
